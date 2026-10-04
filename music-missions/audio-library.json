@@ -1,0 +1,1501 @@
+{
+    "version":  3,
+    "updatedAt":  "2026-10-04T04:02:50.5549684Z",
+    "repository":  "lialucargocu/rdimage",
+    "branch":  "main",
+    "note":  "Shared music library. Existing audio is indexed by confirmed folder/file information first. Unknown emotion/story tags stay unguessed and can be refined later.",
+    "items":  [
+                  {
+                      "id":  "station_lonely",
+                      "reuse_key":  "scene_station_lonely_sparse_slow_v1",
+                      "label":  "夜站・孤獨與留白",
+                      "category":  "scene_variant",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "first_impression",
+                                    "sound_evidence",
+                                    "relisten",
+                                    "interpretation_A"
+                                ],
+                      "length_ms":  26000,
+                      "tags":  {
+                                   "tempo":  [
+                                                 "slow"
+                                             ],
+                                   "dynamics":  [
+                                                    "soft",
+                                                    "restrained"
+                                                ],
+                                   "register":  [
+                                                    "low-mid"
+                                                ],
+                                   "texture":  [
+                                                   "sparse"
+                                               ],
+                                   "articulation":  [
+                                                        "legato",
+                                                        "spacious"
+                                                    ],
+                                   "emotion":  [
+                                                   "lonely",
+                                                   "introspective",
+                                                   "slightly_unresolved"
+                                               ],
+                                   "timbre":  [
+                                                  "piano",
+                                                  "low_strings",
+                                                  "bell_like"
+                                              ],
+                                   "harmony":  [
+                                                   "subtle_tension",
+                                                   "unresolved"
+                                               ],
+                                   "scene":  [
+                                                 "night_station",
+                                                 "waiting",
+                                                 "rain_afterglow"
+                                             ]
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/scene_variant/station_lonely_0aa00839ea31.mp3",
+                      "github_path":  "music-missions/audio/library/scene_variant/station_lonely_0aa00839ea31.mp3",
+                      "sha256":  "0aa00839ea31bf21a28b4877b777d1b9eb1bbd39caecec2329e690dcf490ea1c",
+                      "prompt_hash":  "be0748f17c75a6a605c38d6f0f6498251c3a374bbd56dfc10de567c3ec60d193",
+                      "source":  "legacy_manifest_import",
+                      "source_file":  "station_lonely.mp3",
+                      "updatedAt":  "2026-10-04T04:01:14.0669159Z"
+                  },
+                  {
+                      "id":  "station_suspense",
+                      "reuse_key":  "scene_station_suspense_pulse_v1",
+                      "label":  "夜站・不安與等待",
+                      "category":  "scene_variant",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "interpretation_B",
+                                    "tension_compare"
+                                ],
+                      "length_ms":  26000,
+                      "tags":  {
+                                   "tempo":  [
+                                                 "moderate_slow"
+                                             ],
+                                   "dynamics":  [
+                                                    "restrained",
+                                                    "growing"
+                                                ],
+                                   "register":  [
+                                                    "low"
+                                                ],
+                                   "texture":  [
+                                                   "sparse_to_layered"
+                                               ],
+                                   "articulation":  [
+                                                        "short_pulse",
+                                                        "spacious"
+                                                    ],
+                                   "emotion":  [
+                                                   "watchful",
+                                                   "suspense",
+                                                   "uncertain"
+                                               ],
+                                   "timbre":  [
+                                                  "low_tones",
+                                                  "cinematic"
+                                              ],
+                                   "harmony":  [
+                                                   "tense",
+                                                   "unresolved"
+                                               ],
+                                   "scene":  [
+                                                 "night_station",
+                                                 "waiting",
+                                                 "approaching_lights"
+                                             ]
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/scene_variant/station_suspense_f573a956d190.mp3",
+                      "github_path":  "music-missions/audio/library/scene_variant/station_suspense_f573a956d190.mp3",
+                      "sha256":  "f573a956d1904a75302347ff9815cf90acdaddd5dd9ef84c83c6e3a83a5e52df",
+                      "prompt_hash":  "7ae373421b04f33417188ddd31bc31781f9ae7079d199184151d9c6b115e9a95",
+                      "source":  "legacy_manifest_import",
+                      "source_file":  "station_suspense.mp3",
+                      "updatedAt":  "2026-10-04T04:01:16.4768194Z"
+                  },
+                  {
+                      "id":  "station_hope",
+                      "reuse_key":  "scene_station_hope_warm_opening_v1",
+                      "label":  "夜站・溫暖與希望",
+                      "category":  "scene_variant",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "interpretation_C",
+                                    "hope_compare",
+                                    "resolution_compare"
+                                ],
+                      "length_ms":  26000,
+                      "tags":  {
+                                   "tempo":  [
+                                                 "moderate_slow"
+                                             ],
+                                   "dynamics":  [
+                                                    "soft_to_open"
+                                                ],
+                                   "register":  [
+                                                    "mid_to_high"
+                                                ],
+                                   "texture":  [
+                                                   "gentle_layering"
+                                               ],
+                                   "articulation":  [
+                                                        "legato"
+                                                    ],
+                                   "emotion":  [
+                                                   "warm",
+                                                   "hopeful",
+                                                   "tender"
+                                               ],
+                                   "timbre":  [
+                                                  "piano",
+                                                  "warm_strings",
+                                                  "high_shimmer"
+                                              ],
+                                   "harmony":  [
+                                                   "opening",
+                                                   "resolved"
+                                               ],
+                                   "scene":  [
+                                                 "night_station",
+                                                 "approaching_lights",
+                                                 "hope"
+                                             ]
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/scene_variant/station_hope_583ddaf7275d.mp3",
+                      "github_path":  "music-missions/audio/library/scene_variant/station_hope_583ddaf7275d.mp3",
+                      "sha256":  "583ddaf7275dea274b9836cbd7df45c8e17be5f3237886718bd097c3509112b5",
+                      "prompt_hash":  "64bb2cfb3f07aef5dcbebea3a379d8f363fe07a8a00823f20208b78298389c02",
+                      "source":  "legacy_manifest_import",
+                      "source_file":  "station_hope.mp3",
+                      "updatedAt":  "2026-10-04T04:01:19.1803445Z"
+                  },
+                  {
+                      "id":  "form_form1_A",
+                      "reuse_key":  "legacy_form_form1_A_a3f9b9213c45",
+                      "label":  "form1 A",
+                      "category":  "form",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "form_analysis",
+                                    "theme_tracking"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "form",
+                                   "original_name":  "form1_A.mp3",
+                                   "source_relative_path":  "assets\\audio\\form1_A.mp3",
+                                   "needs_tag_review":  false,
+                                   "form_set":  "form1",
+                                   "form_section":  "A"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/form/form1_A_a3f9b9213c45.mp3",
+                      "github_path":  "music-missions/audio/library/form/form1_A_a3f9b9213c45.mp3",
+                      "sha256":  "a3f9b9213c45633ba43d547efa81fcf056fe749261063b129a24a4103ced3d2d",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\form1_A.mp3",
+                      "updatedAt":  "2026-10-04T04:01:21.5514899Z"
+                  },
+                  {
+                      "id":  "form_form1_B",
+                      "reuse_key":  "legacy_form_form1_B_8817cdc81861",
+                      "label":  "form1 B",
+                      "category":  "form",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "form_analysis",
+                                    "theme_tracking"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "form",
+                                   "original_name":  "form1_B.mp3",
+                                   "source_relative_path":  "assets\\audio\\form1_B.mp3",
+                                   "needs_tag_review":  false,
+                                   "form_set":  "form1",
+                                   "form_section":  "B"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/form/form1_B_8817cdc81861.mp3",
+                      "github_path":  "music-missions/audio/library/form/form1_B_8817cdc81861.mp3",
+                      "sha256":  "8817cdc818615dc3261349f4f36aa89ccc649ffeab604324adeaa4db37a6d9a8",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\form1_B.mp3",
+                      "updatedAt":  "2026-10-04T04:01:23.5511070Z"
+                  },
+                  {
+                      "id":  "form_form1_C",
+                      "reuse_key":  "legacy_form_form1_C_5c7b8cb8e0fb",
+                      "label":  "form1 C",
+                      "category":  "form",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "form_analysis",
+                                    "theme_tracking"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "form",
+                                   "original_name":  "form1_C.mp3",
+                                   "source_relative_path":  "assets\\audio\\form1_C.mp3",
+                                   "needs_tag_review":  false,
+                                   "form_set":  "form1",
+                                   "form_section":  "C"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/form/form1_C_5c7b8cb8e0fb.mp3",
+                      "github_path":  "music-missions/audio/library/form/form1_C_5c7b8cb8e0fb.mp3",
+                      "sha256":  "5c7b8cb8e0fb9ee220f2bb3f55a4351eb9f213cde0382969bdb93d2c22b8a01f",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\form1_C.mp3",
+                      "updatedAt":  "2026-10-04T04:01:25.6321406Z"
+                  },
+                  {
+                      "id":  "form_form2_A",
+                      "reuse_key":  "legacy_form_form2_A_f14cd8a78088",
+                      "label":  "form2 A",
+                      "category":  "form",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "form_analysis",
+                                    "theme_tracking"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "form",
+                                   "original_name":  "form2_A.mp3",
+                                   "source_relative_path":  "assets\\audio\\form2_A.mp3",
+                                   "needs_tag_review":  false,
+                                   "form_set":  "form2",
+                                   "form_section":  "A"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/form/form2_A_f14cd8a78088.mp3",
+                      "github_path":  "music-missions/audio/library/form/form2_A_f14cd8a78088.mp3",
+                      "sha256":  "f14cd8a7808887cd24d95e906068cec0147923f1e1f4573ed6be4cdcad446bb7",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\form2_A.mp3",
+                      "updatedAt":  "2026-10-04T04:01:28.1657861Z"
+                  },
+                  {
+                      "id":  "form_form2_B",
+                      "reuse_key":  "legacy_form_form2_B_7be0edc8ce26",
+                      "label":  "form2 B",
+                      "category":  "form",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "form_analysis",
+                                    "theme_tracking"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "form",
+                                   "original_name":  "form2_B.mp3",
+                                   "source_relative_path":  "assets\\audio\\form2_B.mp3",
+                                   "needs_tag_review":  false,
+                                   "form_set":  "form2",
+                                   "form_section":  "B"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/form/form2_B_7be0edc8ce26.mp3",
+                      "github_path":  "music-missions/audio/library/form/form2_B_7be0edc8ce26.mp3",
+                      "sha256":  "7be0edc8ce26eaf9e756f5114478c98aec4ff4f1a133db16ee5b45718ebb413a",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\form2_B.mp3",
+                      "updatedAt":  "2026-10-04T04:01:30.2146068Z"
+                  },
+                  {
+                      "id":  "form_form2_C",
+                      "reuse_key":  "legacy_form_form2_C_0d3e6c206388",
+                      "label":  "form2 C",
+                      "category":  "form",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "form_analysis",
+                                    "theme_tracking"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "form",
+                                   "original_name":  "form2_C.mp3",
+                                   "source_relative_path":  "assets\\audio\\form2_C.mp3",
+                                   "needs_tag_review":  false,
+                                   "form_set":  "form2",
+                                   "form_section":  "C"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/form/form2_C_0d3e6c206388.mp3",
+                      "github_path":  "music-missions/audio/library/form/form2_C_0d3e6c206388.mp3",
+                      "sha256":  "0d3e6c2063880d633ab322b07505e70eaf58d0414f9bb10e5171c045f0659590",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\form2_C.mp3",
+                      "updatedAt":  "2026-10-04T04:01:32.0583040Z"
+                  },
+                  {
+                      "id":  "form_form3_A",
+                      "reuse_key":  "legacy_form_form3_A_c478778dbd2a",
+                      "label":  "form3 A",
+                      "category":  "form",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "form_analysis",
+                                    "theme_tracking"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "form",
+                                   "original_name":  "form3_A.mp3",
+                                   "source_relative_path":  "assets\\audio\\form3_A.mp3",
+                                   "needs_tag_review":  false,
+                                   "form_set":  "form3",
+                                   "form_section":  "A"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/form/form3_A_c478778dbd2a.mp3",
+                      "github_path":  "music-missions/audio/library/form/form3_A_c478778dbd2a.mp3",
+                      "sha256":  "c478778dbd2af851e41fbc26eab594257378c23ce36054a308be7323eec54ee3",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\form3_A.mp3",
+                      "updatedAt":  "2026-10-04T04:01:34.1304402Z"
+                  },
+                  {
+                      "id":  "form_form3_B",
+                      "reuse_key":  "legacy_form_form3_B_e0b365682863",
+                      "label":  "form3 B",
+                      "category":  "form",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "form_analysis",
+                                    "theme_tracking"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "form",
+                                   "original_name":  "form3_B.mp3",
+                                   "source_relative_path":  "assets\\audio\\form3_B.mp3",
+                                   "needs_tag_review":  false,
+                                   "form_set":  "form3",
+                                   "form_section":  "B"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/form/form3_B_e0b365682863.mp3",
+                      "github_path":  "music-missions/audio/library/form/form3_B_e0b365682863.mp3",
+                      "sha256":  "e0b3656828633fc4ab582f2b0581495d0b930359f3f18c68319e603b1ade3812",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\form3_B.mp3",
+                      "updatedAt":  "2026-10-04T04:01:35.9681427Z"
+                  },
+                  {
+                      "id":  "form_form3_C",
+                      "reuse_key":  "legacy_form_form3_C_89cee393e64b",
+                      "label":  "form3 C",
+                      "category":  "form",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "form_analysis",
+                                    "theme_tracking"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "form",
+                                   "original_name":  "form3_C.mp3",
+                                   "source_relative_path":  "assets\\audio\\form3_C.mp3",
+                                   "needs_tag_review":  false,
+                                   "form_set":  "form3",
+                                   "form_section":  "C"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/form/form3_C_89cee393e64b.mp3",
+                      "github_path":  "music-missions/audio/library/form/form3_C_89cee393e64b.mp3",
+                      "sha256":  "89cee393e64bb729dcd2d2acf6a4f808c693e2b507092253f2520b7279e9841f",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\form3_C.mp3",
+                      "updatedAt":  "2026-10-04T04:01:38.4113590Z"
+                  },
+                  {
+                      "id":  "scene_calm_night",
+                      "reuse_key":  "legacy_scene_scene_calm_night_20d6224c7e6d",
+                      "label":  "scene calm night",
+                      "category":  "scene",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "scene_judgement",
+                                    "aesthetic_interpretation"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "scene",
+                                   "original_name":  "scene_calm_night.mp3",
+                                   "source_relative_path":  "assets\\audio\\scene_calm_night.mp3",
+                                   "needs_tag_review":  true,
+                                   "scene_hint":  "calm night"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/scene/scene_calm_night_20d6224c7e6d.mp3",
+                      "github_path":  "music-missions/audio/library/scene/scene_calm_night_20d6224c7e6d.mp3",
+                      "sha256":  "20d6224c7e6d2a9ca4c2c96c212169ec05e93276dec11d9f80595cb07c9d167c",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\scene_calm_night.mp3",
+                      "updatedAt":  "2026-10-04T04:01:40.6314596Z"
+                  },
+                  {
+                      "id":  "scene_comic_mischief",
+                      "reuse_key":  "legacy_scene_scene_comic_mischief_a1c3d430bdca",
+                      "label":  "scene comic mischief",
+                      "category":  "scene",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "scene_judgement",
+                                    "aesthetic_interpretation"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "scene",
+                                   "original_name":  "scene_comic_mischief.mp3",
+                                   "source_relative_path":  "assets\\audio\\scene_comic_mischief.mp3",
+                                   "needs_tag_review":  true,
+                                   "scene_hint":  "comic mischief"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/scene/scene_comic_mischief_a1c3d430bdca.mp3",
+                      "github_path":  "music-missions/audio/library/scene/scene_comic_mischief_a1c3d430bdca.mp3",
+                      "sha256":  "a1c3d430bdca959bfd8827963cd7b2c783f696b78530e5eec4ac989b39c6a4ca",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\scene_comic_mischief.mp3",
+                      "updatedAt":  "2026-10-04T04:01:42.8119790Z"
+                  },
+                  {
+                      "id":  "scene_farewell",
+                      "reuse_key":  "legacy_scene_scene_farewell_209ed01aab55",
+                      "label":  "scene farewell",
+                      "category":  "scene",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "scene_judgement",
+                                    "aesthetic_interpretation"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "scene",
+                                   "original_name":  "scene_farewell.mp3",
+                                   "source_relative_path":  "assets\\audio\\scene_farewell.mp3",
+                                   "needs_tag_review":  true,
+                                   "scene_hint":  "farewell"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/scene/scene_farewell_209ed01aab55.mp3",
+                      "github_path":  "music-missions/audio/library/scene/scene_farewell_209ed01aab55.mp3",
+                      "sha256":  "209ed01aab550762fa3f02b044de3e7f4eedcb92b3388fa1f9164279b34d2625",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\scene_farewell.mp3",
+                      "updatedAt":  "2026-10-04T04:01:44.9506253Z"
+                  },
+                  {
+                      "id":  "scene_heroic_entry",
+                      "reuse_key":  "legacy_scene_scene_heroic_entry_69fcc1e069bf",
+                      "label":  "scene heroic entry",
+                      "category":  "scene",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "scene_judgement",
+                                    "aesthetic_interpretation"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "scene",
+                                   "original_name":  "scene_heroic_entry.mp3",
+                                   "source_relative_path":  "assets\\audio\\scene_heroic_entry.mp3",
+                                   "needs_tag_review":  true,
+                                   "scene_hint":  "heroic entry"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/scene/scene_heroic_entry_69fcc1e069bf.mp3",
+                      "github_path":  "music-missions/audio/library/scene/scene_heroic_entry_69fcc1e069bf.mp3",
+                      "sha256":  "69fcc1e069bf9c7802dff50d027aaee070d0cb3a16ef1d4c1160f9d497110efc",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\scene_heroic_entry.mp3",
+                      "updatedAt":  "2026-10-04T04:01:47.1610729Z"
+                  },
+                  {
+                      "id":  "scene_playful_market",
+                      "reuse_key":  "legacy_scene_scene_playful_market_2544280ae8e8",
+                      "label":  "scene playful market",
+                      "category":  "scene",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "scene_judgement",
+                                    "aesthetic_interpretation"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "scene",
+                                   "original_name":  "scene_playful_market.mp3",
+                                   "source_relative_path":  "assets\\audio\\scene_playful_market.mp3",
+                                   "needs_tag_review":  true,
+                                   "scene_hint":  "playful market"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/scene/scene_playful_market_2544280ae8e8.mp3",
+                      "github_path":  "music-missions/audio/library/scene/scene_playful_market_2544280ae8e8.mp3",
+                      "sha256":  "2544280ae8e8750e3e55230ee864691ab30ad5ce872254a5ea49efaeb7bbce55",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\scene_playful_market.mp3",
+                      "updatedAt":  "2026-10-04T04:01:49.4735524Z"
+                  },
+                  {
+                      "id":  "scene_reflective_ruins",
+                      "reuse_key":  "legacy_scene_scene_reflective_ruins_65521ae39f88",
+                      "label":  "scene reflective ruins",
+                      "category":  "scene",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "scene_judgement",
+                                    "aesthetic_interpretation"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "scene",
+                                   "original_name":  "scene_reflective_ruins.mp3",
+                                   "source_relative_path":  "assets\\audio\\scene_reflective_ruins.mp3",
+                                   "needs_tag_review":  true,
+                                   "scene_hint":  "reflective ruins"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/scene/scene_reflective_ruins_65521ae39f88.mp3",
+                      "github_path":  "music-missions/audio/library/scene/scene_reflective_ruins_65521ae39f88.mp3",
+                      "sha256":  "65521ae39f88275cb923dabbf8905b6528a9049fade9bbdef0f6539c42e23319",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\scene_reflective_ruins.mp3",
+                      "updatedAt":  "2026-10-04T04:01:51.6256449Z"
+                  },
+                  {
+                      "id":  "scene_sacred_hall",
+                      "reuse_key":  "legacy_scene_scene_sacred_hall_d9aa085071e4",
+                      "label":  "scene sacred hall",
+                      "category":  "scene",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "scene_judgement",
+                                    "aesthetic_interpretation"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "scene",
+                                   "original_name":  "scene_sacred_hall.mp3",
+                                   "source_relative_path":  "assets\\audio\\scene_sacred_hall.mp3",
+                                   "needs_tag_review":  true,
+                                   "scene_hint":  "sacred hall"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/scene/scene_sacred_hall_d9aa085071e4.mp3",
+                      "github_path":  "music-missions/audio/library/scene/scene_sacred_hall_d9aa085071e4.mp3",
+                      "sha256":  "d9aa085071e4a8b6464ae0a36ac7159fb528468402bd1ea58947bcac0f7acc07",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\scene_sacred_hall.mp3",
+                      "updatedAt":  "2026-10-04T04:01:53.7807178Z"
+                  },
+                  {
+                      "id":  "scene_stealth_mystery",
+                      "reuse_key":  "legacy_scene_scene_stealth_mystery_6aca6e0e5a8b",
+                      "label":  "scene stealth mystery",
+                      "category":  "scene",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "scene_judgement",
+                                    "aesthetic_interpretation"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "scene",
+                                   "original_name":  "scene_stealth_mystery.mp3",
+                                   "source_relative_path":  "assets\\audio\\scene_stealth_mystery.mp3",
+                                   "needs_tag_review":  true,
+                                   "scene_hint":  "stealth mystery"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/scene/scene_stealth_mystery_6aca6e0e5a8b.mp3",
+                      "github_path":  "music-missions/audio/library/scene/scene_stealth_mystery_6aca6e0e5a8b.mp3",
+                      "sha256":  "6aca6e0e5a8bad544729caac72111d10d5a653a5be377ab813c0c63ffef4787a",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\scene_stealth_mystery.mp3",
+                      "updatedAt":  "2026-10-04T04:01:56.0569418Z"
+                  },
+                  {
+                      "id":  "scene_storm_chase",
+                      "reuse_key":  "legacy_scene_scene_storm_chase_05f012fbd01b",
+                      "label":  "scene storm chase",
+                      "category":  "scene",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "scene_judgement",
+                                    "aesthetic_interpretation"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "scene",
+                                   "original_name":  "scene_storm_chase.mp3",
+                                   "source_relative_path":  "assets\\audio\\scene_storm_chase.mp3",
+                                   "needs_tag_review":  true,
+                                   "scene_hint":  "storm chase"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/scene/scene_storm_chase_05f012fbd01b.mp3",
+                      "github_path":  "music-missions/audio/library/scene/scene_storm_chase_05f012fbd01b.mp3",
+                      "sha256":  "05f012fbd01bd35b7ed06ecd87cb636ee9150c931220c618a090a5fc917199ba",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\scene_storm_chase.mp3",
+                      "updatedAt":  "2026-10-04T04:01:58.2149581Z"
+                  },
+                  {
+                      "id":  "scene_wonder_discovery",
+                      "reuse_key":  "legacy_scene_scene_wonder_discovery_193040c2921a",
+                      "label":  "scene wonder discovery",
+                      "category":  "scene",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "scene_judgement",
+                                    "aesthetic_interpretation"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "scene",
+                                   "original_name":  "scene_wonder_discovery.mp3",
+                                   "source_relative_path":  "assets\\audio\\scene_wonder_discovery.mp3",
+                                   "needs_tag_review":  true,
+                                   "scene_hint":  "wonder discovery"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/scene/scene_wonder_discovery_193040c2921a.mp3",
+                      "github_path":  "music-missions/audio/library/scene/scene_wonder_discovery_193040c2921a.mp3",
+                      "sha256":  "193040c2921ad96d587abebe700096c4a0c3d7d8bfc9b01a6accbc50ba48e096",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "assets\\audio\\scene_wonder_discovery.mp3",
+                      "updatedAt":  "2026-10-04T04:02:00.5056755Z"
+                  },
+                  {
+                      "id":  "articulation_legato",
+                      "reuse_key":  "legacy_articulation_articulation_legato_9c89da5f96bb",
+                      "label":  "articulation legato",
+                      "category":  "articulation",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "articulation_compare"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "articulation",
+                                   "original_name":  "articulation_legato.mp3",
+                                   "source_relative_path":  "output\\articulation\\articulation_legato.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/articulation/articulation_legato_9c89da5f96bb.mp3",
+                      "github_path":  "music-missions/audio/library/articulation/articulation_legato_9c89da5f96bb.mp3",
+                      "sha256":  "9c89da5f96bb7ffcc4a2db82e62765b2b5a92261463fbdd96961ac755b80bb8c",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\articulation\\articulation_legato.mp3",
+                      "updatedAt":  "2026-10-04T04:02:02.6314784Z"
+                  },
+                  {
+                      "id":  "articulation_staccato",
+                      "reuse_key":  "legacy_articulation_articulation_staccato_b4337ef1a978",
+                      "label":  "articulation staccato",
+                      "category":  "articulation",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "articulation_compare"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "articulation",
+                                   "original_name":  "articulation_staccato.mp3",
+                                   "source_relative_path":  "output\\articulation\\articulation_staccato.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/articulation/articulation_staccato_b4337ef1a978.mp3",
+                      "github_path":  "music-missions/audio/library/articulation/articulation_staccato_b4337ef1a978.mp3",
+                      "sha256":  "b4337ef1a978093bc82400c2808e5f1e428a2d626ea2fef2f2da57d74bec69af",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\articulation\\articulation_staccato.mp3",
+                      "updatedAt":  "2026-10-04T04:02:04.6320525Z"
+                  },
+                  {
+                      "id":  "cadence_resolved",
+                      "reuse_key":  "legacy_cadence_cadence_resolved_f5e13b45a69e",
+                      "label":  "cadence resolved",
+                      "category":  "cadence",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "cadence_compare",
+                                    "resolution_compare"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "cadence",
+                                   "original_name":  "cadence_resolved.mp3",
+                                   "source_relative_path":  "output\\cadence\\cadence_resolved.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/cadence/cadence_resolved_f5e13b45a69e.mp3",
+                      "github_path":  "music-missions/audio/library/cadence/cadence_resolved_f5e13b45a69e.mp3",
+                      "sha256":  "f5e13b45a69ee16d0aef3d467bcd6bdc2e8b660efd4c2d68482a7219e0eed989",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\cadence\\cadence_resolved.mp3",
+                      "updatedAt":  "2026-10-04T04:02:06.7831936Z"
+                  },
+                  {
+                      "id":  "cadence_unresolved",
+                      "reuse_key":  "legacy_cadence_cadence_unresolved_36de2fa1e83d",
+                      "label":  "cadence unresolved",
+                      "category":  "cadence",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "cadence_compare",
+                                    "resolution_compare"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "cadence",
+                                   "original_name":  "cadence_unresolved.mp3",
+                                   "source_relative_path":  "output\\cadence\\cadence_unresolved.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/cadence/cadence_unresolved_36de2fa1e83d.mp3",
+                      "github_path":  "music-missions/audio/library/cadence/cadence_unresolved_36de2fa1e83d.mp3",
+                      "sha256":  "36de2fa1e83df5dbea2c0995d5e35b63cc963428dde8dd8c88206bc229c6616d",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\cadence\\cadence_unresolved.mp3",
+                      "updatedAt":  "2026-10-04T04:02:08.5145738Z"
+                  },
+                  {
+                      "id":  "dynamics_crescendo",
+                      "reuse_key":  "legacy_dynamics_dynamics_crescendo_d3941048b73b",
+                      "label":  "dynamics crescendo",
+                      "category":  "dynamics",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "dynamics_compare"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "dynamics",
+                                   "original_name":  "dynamics_crescendo.mp3",
+                                   "source_relative_path":  "output\\dynamics\\dynamics_crescendo.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/dynamics/dynamics_crescendo_d3941048b73b.mp3",
+                      "github_path":  "music-missions/audio/library/dynamics/dynamics_crescendo_d3941048b73b.mp3",
+                      "sha256":  "d3941048b73bfbbab0447e17553db3a06d227e1f55f2abc201cccedfd0a0240d",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\dynamics\\dynamics_crescendo.mp3",
+                      "updatedAt":  "2026-10-04T04:02:10.6139841Z"
+                  },
+                  {
+                      "id":  "dynamics_diminuendo",
+                      "reuse_key":  "legacy_dynamics_dynamics_diminuendo_9d211d686c1b",
+                      "label":  "dynamics diminuendo",
+                      "category":  "dynamics",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "dynamics_compare"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "dynamics",
+                                   "original_name":  "dynamics_diminuendo.mp3",
+                                   "source_relative_path":  "output\\dynamics\\dynamics_diminuendo.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/dynamics/dynamics_diminuendo_9d211d686c1b.mp3",
+                      "github_path":  "music-missions/audio/library/dynamics/dynamics_diminuendo_9d211d686c1b.mp3",
+                      "sha256":  "9d211d686c1bb70698cfa026b8a5c5080ae4ecc0ced2d22b7676cf3594e7e406",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\dynamics\\dynamics_diminuendo.mp3",
+                      "updatedAt":  "2026-10-04T04:02:12.9061426Z"
+                  },
+                  {
+                      "id":  "form_aba",
+                      "reuse_key":  "legacy_form_form_aba_c44412fedb51",
+                      "label":  "form aba",
+                      "category":  "form",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "form_analysis",
+                                    "theme_tracking"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "form",
+                                   "original_name":  "form_aba.mp3",
+                                   "source_relative_path":  "output\\form\\form_aba.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/form/form_aba_c44412fedb51.mp3",
+                      "github_path":  "music-missions/audio/library/form/form_aba_c44412fedb51.mp3",
+                      "sha256":  "c44412fedb51929f77a8421240c9598511bf129c16e50d3cab90b60beaa3dbdc",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\form\\form_aba.mp3",
+                      "updatedAt":  "2026-10-04T04:02:14.9856862Z"
+                  },
+                  {
+                      "id":  "form_abc",
+                      "reuse_key":  "legacy_form_form_abc_d21d5258bd09",
+                      "label":  "form abc",
+                      "category":  "form",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "form_analysis",
+                                    "theme_tracking"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "form",
+                                   "original_name":  "form_abc.mp3",
+                                   "source_relative_path":  "output\\form\\form_abc.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/form/form_abc_d21d5258bd09.mp3",
+                      "github_path":  "music-missions/audio/library/form/form_abc_d21d5258bd09.mp3",
+                      "sha256":  "d21d5258bd09a114dd07f2f0afdfee7ed33c591ed3dfed73c9998ae71f710d24",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\form\\form_abc.mp3",
+                      "updatedAt":  "2026-10-04T04:02:17.2882338Z"
+                  },
+                  {
+                      "id":  "meterfeel_meter_march",
+                      "reuse_key":  "legacy_meterfeel_meter_march_77427c82b1c8",
+                      "label":  "meter march",
+                      "category":  "meterfeel",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "meter_feel_compare"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "meterfeel",
+                                   "original_name":  "meter_march.mp3",
+                                   "source_relative_path":  "output\\meterfeel\\meter_march.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/meterfeel/meter_march_77427c82b1c8.mp3",
+                      "github_path":  "music-missions/audio/library/meterfeel/meter_march_77427c82b1c8.mp3",
+                      "sha256":  "77427c82b1c893ad0a9ee68f6af9defceb0a8c3b5937a8a8d198cd5eb633ef1a",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\meterfeel\\meter_march.mp3",
+                      "updatedAt":  "2026-10-04T04:02:19.4432698Z"
+                  },
+                  {
+                      "id":  "meterfeel_meter_waltz",
+                      "reuse_key":  "legacy_meterfeel_meter_waltz_5938dfef82a2",
+                      "label":  "meter waltz",
+                      "category":  "meterfeel",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "meter_feel_compare"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "meterfeel",
+                                   "original_name":  "meter_waltz.mp3",
+                                   "source_relative_path":  "output\\meterfeel\\meter_waltz.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/meterfeel/meter_waltz_5938dfef82a2.mp3",
+                      "github_path":  "music-missions/audio/library/meterfeel/meter_waltz_5938dfef82a2.mp3",
+                      "sha256":  "5938dfef82a28042757e019b2c47a3b0c33df6b015e639e7c75ac9d4ad9b400d",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\meterfeel\\meter_waltz.mp3",
+                      "updatedAt":  "2026-10-04T04:02:21.4810937Z"
+                  },
+                  {
+                      "id":  "motion_accelerando",
+                      "reuse_key":  "legacy_motion_motion_accelerando_7bd764920475",
+                      "label":  "motion accelerando",
+                      "category":  "motion",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "melodic_motion"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "motion",
+                                   "original_name":  "motion_accelerando.mp3",
+                                   "source_relative_path":  "output\\motion\\motion_accelerando.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/motion/motion_accelerando_7bd764920475.mp3",
+                      "github_path":  "music-missions/audio/library/motion/motion_accelerando_7bd764920475.mp3",
+                      "sha256":  "7bd7649204753eb33781d73dafcd5039b74162cd021325458b21fe983505b02e",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\motion\\motion_accelerando.mp3",
+                      "updatedAt":  "2026-10-04T04:02:23.5651065Z"
+                  },
+                  {
+                      "id":  "motion_steady",
+                      "reuse_key":  "legacy_motion_motion_steady_a188fbd5e7ae",
+                      "label":  "motion steady",
+                      "category":  "motion",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "melodic_motion"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "motion",
+                                   "original_name":  "motion_steady.mp3",
+                                   "source_relative_path":  "output\\motion\\motion_steady.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/motion/motion_steady_a188fbd5e7ae.mp3",
+                      "github_path":  "music-missions/audio/library/motion/motion_steady_a188fbd5e7ae.mp3",
+                      "sha256":  "a188fbd5e7ae86f6fa8b0e2f0b2aeaf4a5c5f9b7d6bac9276520295db7f15493",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\motion\\motion_steady.mp3",
+                      "updatedAt":  "2026-10-04T04:02:25.6158433Z"
+                  },
+                  {
+                      "id":  "register_high_sparkle",
+                      "reuse_key":  "legacy_register_register_high_sparkle_3395655848d2",
+                      "label":  "register high sparkle",
+                      "category":  "register",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "register_compare"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "register",
+                                   "original_name":  "register_high_sparkle.mp3",
+                                   "source_relative_path":  "output\\register\\register_high_sparkle.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/register/register_high_sparkle_3395655848d2.mp3",
+                      "github_path":  "music-missions/audio/library/register/register_high_sparkle_3395655848d2.mp3",
+                      "sha256":  "3395655848d2efca2ade67d8c582ec1720e3a153ad45a83e0db2a4af17aa7578",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\register\\register_high_sparkle.mp3",
+                      "updatedAt":  "2026-10-04T04:02:27.8538236Z"
+                  },
+                  {
+                      "id":  "register_low_dark",
+                      "reuse_key":  "legacy_register_register_low_dark_07415bd08afb",
+                      "label":  "register low dark",
+                      "category":  "register",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "register_compare"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "register",
+                                   "original_name":  "register_low_dark.mp3",
+                                   "source_relative_path":  "output\\register\\register_low_dark.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/register/register_low_dark_07415bd08afb.mp3",
+                      "github_path":  "music-missions/audio/library/register/register_low_dark_07415bd08afb.mp3",
+                      "sha256":  "07415bd08afb2cf48ddf178db099602d4d851ca47f35299e75b51968cb9b99d0",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\register\\register_low_dark.mp3",
+                      "updatedAt":  "2026-10-04T04:02:30.1623304Z"
+                  },
+                  {
+                      "id":  "repair_intrusion",
+                      "reuse_key":  "legacy_repair_repair_intrusion_b0c83f65dee1",
+                      "label":  "repair intrusion",
+                      "category":  "repair",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "music_repair"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "repair",
+                                   "original_name":  "repair_intrusion.mp3",
+                                   "source_relative_path":  "output\\repair\\repair_intrusion.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/repair/repair_intrusion_b0c83f65dee1.mp3",
+                      "github_path":  "music-missions/audio/library/repair/repair_intrusion_b0c83f65dee1.mp3",
+                      "sha256":  "b0c83f65dee1a8e5aaa7ab40ab8d24db3da7d913db6c86c0be17567d93fefe5e",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\repair\\repair_intrusion.mp3",
+                      "updatedAt":  "2026-10-04T04:02:32.4822608Z"
+                  },
+                  {
+                      "id":  "repair_smooth",
+                      "reuse_key":  "legacy_repair_repair_smooth_7d61373e417f",
+                      "label":  "repair smooth",
+                      "category":  "repair",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "music_repair"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "repair",
+                                   "original_name":  "repair_smooth.mp3",
+                                   "source_relative_path":  "output\\repair\\repair_smooth.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/repair/repair_smooth_7d61373e417f.mp3",
+                      "github_path":  "music-missions/audio/library/repair/repair_smooth_7d61373e417f.mp3",
+                      "sha256":  "7d61373e417fef3efa7155b704628b865f0ab501ae9e55007336cd406ababafe",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\repair\\repair_smooth.mp3",
+                      "updatedAt":  "2026-10-04T04:02:34.1783777Z"
+                  },
+                  {
+                      "id":  "scene_calm_night_530dfc63",
+                      "reuse_key":  "legacy_scene_scene_calm_night_530dfc634641",
+                      "label":  "scene calm night",
+                      "category":  "scene",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "scene_judgement",
+                                    "aesthetic_interpretation"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "scene",
+                                   "original_name":  "scene_calm_night.mp3",
+                                   "source_relative_path":  "output\\scene\\scene_calm_night.mp3",
+                                   "needs_tag_review":  true,
+                                   "scene_hint":  "calm night"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/scene/scene_calm_night_530dfc634641.mp3",
+                      "github_path":  "music-missions/audio/library/scene/scene_calm_night_530dfc634641.mp3",
+                      "sha256":  "530dfc6346415df5163edd5809bf6e94046a4beb85c66abdd25b7fee418b8d1a",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\scene\\scene_calm_night.mp3",
+                      "updatedAt":  "2026-10-04T04:02:36.5648610Z"
+                  },
+                  {
+                      "id":  "scene_heroic_entry_0cd9c5fe",
+                      "reuse_key":  "legacy_scene_scene_heroic_entry_0cd9c5fe1069",
+                      "label":  "scene heroic entry",
+                      "category":  "scene",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "scene_judgement",
+                                    "aesthetic_interpretation"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "scene",
+                                   "original_name":  "scene_heroic_entry.mp3",
+                                   "source_relative_path":  "output\\scene\\scene_heroic_entry.mp3",
+                                   "needs_tag_review":  true,
+                                   "scene_hint":  "heroic entry"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/scene/scene_heroic_entry_0cd9c5fe1069.mp3",
+                      "github_path":  "music-missions/audio/library/scene/scene_heroic_entry_0cd9c5fe1069.mp3",
+                      "sha256":  "0cd9c5fe106980185392d3527d02ddaeedba79e26d13d791de98b940a6639c1f",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\scene\\scene_heroic_entry.mp3",
+                      "updatedAt":  "2026-10-04T04:02:38.5490441Z"
+                  },
+                  {
+                      "id":  "scene_reflective_ruins_23b38d19",
+                      "reuse_key":  "legacy_scene_scene_reflective_ruins_23b38d19079b",
+                      "label":  "scene reflective ruins",
+                      "category":  "scene",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "scene_judgement",
+                                    "aesthetic_interpretation"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "scene",
+                                   "original_name":  "scene_reflective_ruins.mp3",
+                                   "source_relative_path":  "output\\scene\\scene_reflective_ruins.mp3",
+                                   "needs_tag_review":  true,
+                                   "scene_hint":  "reflective ruins"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/scene/scene_reflective_ruins_23b38d19079b.mp3",
+                      "github_path":  "music-missions/audio/library/scene/scene_reflective_ruins_23b38d19079b.mp3",
+                      "sha256":  "23b38d19079b669da8ec0dbc41854045b4ab93bee9061c3a4cf4464b4d78808c",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\scene\\scene_reflective_ruins.mp3",
+                      "updatedAt":  "2026-10-04T04:02:40.5421669Z"
+                  },
+                  {
+                      "id":  "scene_tense_stealth",
+                      "reuse_key":  "legacy_scene_scene_tense_stealth_05440d56aded",
+                      "label":  "scene tense stealth",
+                      "category":  "scene",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "scene_judgement",
+                                    "aesthetic_interpretation"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "scene",
+                                   "original_name":  "scene_tense_stealth.mp3",
+                                   "source_relative_path":  "output\\scene\\scene_tense_stealth.mp3",
+                                   "needs_tag_review":  true,
+                                   "scene_hint":  "tense stealth"
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/scene/scene_tense_stealth_05440d56aded.mp3",
+                      "github_path":  "music-missions/audio/library/scene/scene_tense_stealth_05440d56aded.mp3",
+                      "sha256":  "05440d56aded2655d8ec4288588d2e6c737789124bb89bf51043d146abe276f9",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\scene\\scene_tense_stealth.mp3",
+                      "updatedAt":  "2026-10-04T04:02:42.8005116Z"
+                  },
+                  {
+                      "id":  "texture_dense",
+                      "reuse_key":  "legacy_texture_texture_dense_522f5178fd5f",
+                      "label":  "texture dense",
+                      "category":  "texture",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "texture_compare"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "texture",
+                                   "original_name":  "texture_dense.mp3",
+                                   "source_relative_path":  "output\\texture\\texture_dense.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/texture/texture_dense_522f5178fd5f.mp3",
+                      "github_path":  "music-missions/audio/library/texture/texture_dense_522f5178fd5f.mp3",
+                      "sha256":  "522f5178fd5f6869f14fb8ea337a8102c8a2d1e0b3a4d018349aaf536cd35176",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\texture\\texture_dense.mp3",
+                      "updatedAt":  "2026-10-04T04:02:44.4857015Z"
+                  },
+                  {
+                      "id":  "texture_sparse",
+                      "reuse_key":  "legacy_texture_texture_sparse_265593da8524",
+                      "label":  "texture sparse",
+                      "category":  "texture",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "texture_compare"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "texture",
+                                   "original_name":  "texture_sparse.mp3",
+                                   "source_relative_path":  "output\\texture\\texture_sparse.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/texture/texture_sparse_265593da8524.mp3",
+                      "github_path":  "music-missions/audio/library/texture/texture_sparse_265593da8524.mp3",
+                      "sha256":  "265593da8524b54a23307cb5c587bdf2b36a8c69c943bd034d4ac0d726dee2b9",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\texture\\texture_sparse.mp3",
+                      "updatedAt":  "2026-10-04T04:02:46.7882488Z"
+                  },
+                  {
+                      "id":  "timbre_orchestration_brass",
+                      "reuse_key":  "legacy_timbre_orchestration_brass_2229ba27bd3c",
+                      "label":  "orchestration brass",
+                      "category":  "timbre",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "timbre_compare"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "timbre",
+                                   "original_name":  "orchestration_brass.mp3",
+                                   "source_relative_path":  "output\\timbre\\orchestration_brass.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/timbre/orchestration_brass_2229ba27bd3c.mp3",
+                      "github_path":  "music-missions/audio/library/timbre/orchestration_brass_2229ba27bd3c.mp3",
+                      "sha256":  "2229ba27bd3c5092dea34c2fc3210debdf59b5e23f57a9b553196169a11204de",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\timbre\\orchestration_brass.mp3",
+                      "updatedAt":  "2026-10-04T04:02:48.4585381Z"
+                  },
+                  {
+                      "id":  "timbre_orchestration_woodwind",
+                      "reuse_key":  "legacy_timbre_orchestration_woodwind_30106874305a",
+                      "label":  "orchestration woodwind",
+                      "category":  "timbre",
+                      "grades":  [
+                                     3,
+                                     4,
+                                     5,
+                                     6
+                                 ],
+                      "roles":  [
+                                    "timbre_compare"
+                                ],
+                      "length_ms":  0,
+                      "tags":  {
+                                   "source_category":  "timbre",
+                                   "original_name":  "orchestration_woodwind.mp3",
+                                   "source_relative_path":  "output\\timbre\\orchestration_woodwind.mp3",
+                                   "needs_tag_review":  true
+                               },
+                      "url":  "https://cdn.jsdelivr.net/gh/lialucargocu/rdimage@main/music-missions/audio/library/timbre/orchestration_woodwind_30106874305a.mp3",
+                      "github_path":  "music-missions/audio/library/timbre/orchestration_woodwind_30106874305a.mp3",
+                      "sha256":  "30106874305afe34486352f8ceb8e0cfd9a9e7fbea1b42563763a3b88a39798f",
+                      "prompt_hash":  "",
+                      "source":  "legacy_folder_import",
+                      "source_file":  "output\\timbre\\orchestration_woodwind.mp3",
+                      "updatedAt":  "2026-10-04T04:02:50.5534781Z"
+                  }
+              ]
+}
